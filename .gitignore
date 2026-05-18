@@ -1,0 +1,19 @@
+# Scripts containing credentials
+snowflake_extract.py
+weekly_report.py
+
+# Combined/original project files
+PROJECT.sql
+PROJECT_ORIGINAL.sql
+
+# Generated output files
+*.csv
+*.png
+weekly_report.md
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
