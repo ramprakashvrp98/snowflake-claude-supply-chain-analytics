@@ -1,6 +1,6 @@
 # Supply Chain Analytics — Snowflake + Python
 
-End-to-end analytics pipeline for the DataCo Supply Chain dataset. Raw CSV data is ingested from AWS S3 into Snowflake, cleaned and transformed through a three-layer architecture, and surfaced as Python-generated charts and an automated weekly markdown report.
+This project extends the Snowflake SQL pipeline built in [Supply-Chain-Analytics-Pipeline](https://github.com/ramprakashvrp98/Supply-Chain-Analytics-Pipeline) by adding Python automation and AI-assisted development with Claude Code.
 
 ---
 
